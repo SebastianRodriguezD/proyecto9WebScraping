@@ -10,11 +10,11 @@ const scrapper = async (url) => {
   await page.goto(url)
   await page.setViewport({ width: 1080, height: 1024 })
 
-  await repeat(page)
+  await repeat(page, browser)
   await browser.close()
 }
 
-const repeat = async (page) => {
+const repeat = async (page, browser) => {
   const arrayDivs = await page.$$('.item-container')
   for (const divProductos of arrayDivs) {
     let precio = 0
@@ -50,14 +50,14 @@ const repeat = async (page) => {
       await page.waitForNavigation()
       console.log('OK NEXT')
       console.log(`llevamos ${productosArray.length} datos`)
-      await repeat(page)
+      await repeat(page, browser)
     } else {
       console.log('No hay más páginas.')
       write(productosArray)
     }
   } catch (error) {
-    console.error('Error al paginar:', error)
     write(productosArray)
+    await browser.close()
   }
 }
 

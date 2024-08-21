@@ -5,11 +5,6 @@
     "precio": 869.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-215-20.jpg",
-    "titulo": "MSI Optix G274RW 27\" 16:9 Gaming Monitor White, 170Hz 1ms, 1920 x 1080 (FHD), G-Sync Compatible, Height Adjustable Arm, RGB LED",
-    "precio": 214
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-011-505-12.jpg",
     "titulo": "Acer Nitro 34\" 21:9 Curved UWQHD (3440 x 1440) Monitor, Adaptive-Sync Support (FreeSync Compatible), 100Hz Refresh Rate, 1ms (VRB), AdobeRGB 90%, VESA Mounting Compliant - EDA343CUR Hbmiippx",
     "precio": 209.01
@@ -35,19 +30,14 @@
     "precio": 1199.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-233-577-01.jpg",
-    "titulo": "GIGABYTE G6 Series G6 KF-H3US865KH 16'' 165 Hz IPS Intel Core i7-13620H GeForce RTX 4060 Laptop GPU 32GB Memory 2 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
-    "precio": 1269.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-011-467-05.png",
     "titulo": "Acer Nitro VG271U M3bmiipx 27\" WQHD (2560 x 1440) IPS Monitor with AMD FreeSync Premium Technology, Up to 180Hz, Up to 0.5ms, DCI-P3 95% (1 x Display Port 1.2, 2 x HDMI 2.0 and 1 x Audio Out)",
     "precio": 189.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-481-03.png",
-    "titulo": "Acer Nitro QG241Y S3 23.8inch 1920x1080 180Hz Refresh rate 1ms response time AMD FreeSync Premium HDR Gaming Monitor, HDMIx2, DisplayPort, Speaker",
-    "precio": 89.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-233-577-01.jpg",
+    "titulo": "GIGABYTE G6 Series G6 KF-H3US865KH 16'' 165 Hz IPS Intel Core i7-13620H GeForce RTX 4060 Laptop GPU 32GB Memory 2 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 1269.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-011-452-01.png",
@@ -60,14 +50,14 @@
     "precio": 99.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-481-03.png",
+    "titulo": "Acer Nitro QG241Y S3 23.8inch 1920x1080 180Hz Refresh rate 1ms response time AMD FreeSync Premium HDR Gaming Monitor, HDMIx2, DisplayPort, Speaker",
+    "precio": 89.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-279-26.jpg",
     "titulo": "MSI G273CQ 27\" QHD 2560 x 1440 (2K) 1ms (MPRT) / 4ms (GTG) 170 Hz FreeSync Premium Curved Gaming Monitor",
     "precio": 179.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-453-09.png",
-    "titulo": "Acer 27\" 170 Hz VA QHD gaming monitor FreeSync Premium (AMD Adaptive Sync) 2560 x 1440 (2K) 72% NTSC ED270U P2bmiipx",
-    "precio": 169.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-648-03.jpg",
@@ -75,19 +65,24 @@
     "precio": 999.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-002-15.jpg",
-    "titulo": "ASRock PHANTOM GAMING 27\" FHD (1920 x 1080) 165Hz/1ms (144Hz and higher) FreeSync Gaming Monitor, 2 * DisplayPort, 1 * HDMI (PG27FF1A)",
-    "precio": 179.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-453-09.png",
+    "titulo": "Acer 27\" 170 Hz VA QHD gaming monitor FreeSync Premium (AMD Adaptive Sync) 2560 x 1440 (2K) 72% NTSC ED270U P2bmiipx",
+    "precio": 169.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-004-09.jpg",
-    "titulo": "ASRock PG32QF2B Phantom 32\" (31.5\" viewable) QHD 2560 x 1440 (2K) 165 Hz (144Hz and higher) Wi-Fi Antenna FreeSync Premium (AMD Adaptive Sync) Built-in Speakers Flat Panel Gaming Monitor",
-    "precio": 319.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-002-15.jpg",
+    "titulo": "ASRock PHANTOM GAMING 27\" FHD (1920 x 1080) 165Hz/1ms (144Hz and higher) FreeSync Gaming Monitor, 2 * DisplayPort, 1 * HDMI (PG27FF1A)",
+    "precio": 117.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-392-01.jpg",
     "titulo": "MSI 34\" 240 Hz QD-OLED UWQHD Gaming Monitor 3440 x 1440 (2K) 97.8% Adobe RGB / 99.3% DCI-P3 / 139.1% sRGB MPG 341CQPX QD-OLED",
     "precio": 849.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-004-09.jpg",
+    "titulo": "ASRock PG32QF2B Phantom 32\" (31.5\" viewable) QHD 2560 x 1440 (2K) 165 Hz (144Hz and higher) Wi-Fi Antenna FreeSync Premium (AMD Adaptive Sync) Built-in Speakers Flat Panel Gaming Monitor",
+    "precio": 319.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-027-252-22.jpg",
@@ -165,14 +160,14 @@
     "precio": 69
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/26-910-060-05.jpg",
-    "titulo": "Meta Quest 3 Silicone Facial Interface",
-    "precio": 49
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/23-193-158-02.jpg",
     "titulo": "ASUS ROG Falchion Ace HFX 65% compact gaming keyboard, magnetic switches, 8000 Hz polling rate, three-layer dampening foam, silicone gasket mount, interactive touch panel, dual USB-C® ports",
     "precio": 199.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/26-910-060-05.jpg",
+    "titulo": "Meta Quest 3 Silicone Facial Interface",
+    "precio": 49
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/26-567-061-10.jpg",
@@ -180,24 +175,14 @@
     "precio": 99.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-886-094-01.jpg",
+    "titulo": "God of War - PC [Steam Online Game Code]",
+    "precio": 44.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/74-165-034-S11.jpg",
     "titulo": "Kingdom Hearts III - Xbox One",
     "precio": 25.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-330-192-V01.jpg",
-    "titulo": "Mortal Kombat 11 - Nintendo Switch",
-    "precio": 49.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-810-S10.jpg",
-    "titulo": "Super Mario Maker 2 - Nintendo Switch",
-    "precio": 54.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-120-002-V01.jpg",
-    "titulo": "Diablo III Eternal Collection - Nintendo Switch",
-    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-093-09.jpg",
@@ -205,19 +190,24 @@
     "precio": 59.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-120-002-V01.jpg",
+    "titulo": "Diablo III Eternal Collection - Nintendo Switch",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-810-S10.jpg",
+    "titulo": "Super Mario Maker 2 - Nintendo Switch",
+    "precio": 54.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/79-261-683-S02.jpg",
     "titulo": "Starblood Arena - PlayStation VR",
     "precio": 20
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/79-262-059-S11.jpg",
-    "titulo": "Kingdom Hearts III - PlayStation 4",
-    "precio": 24.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-322-01.jpg",
-    "titulo": "Hogwarts Legacy - PC [Steam Game Code]",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-777-V08.jpg",
+    "titulo": "PC Game Pass (100+ PC Games All You Can Play) 3 Month US Region [Digital Code]",
+    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-136-01.jpg",
@@ -230,9 +220,9 @@
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-777-V08.jpg",
-    "titulo": "PC Game Pass (100+ PC Games All You Can Play) 3 Month US Region [Digital Code]",
-    "precio": 29.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/79-262-059-S11.jpg",
+    "titulo": "Kingdom Hearts III - PlayStation 4",
+    "precio": 24.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-704-01.jpg",
@@ -240,19 +230,14 @@
     "precio": 91.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-322-01.jpg",
+    "titulo": "Hogwarts Legacy - PC [Steam Game Code]",
+    "precio": 59.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/68-815-010-01.jpg",
     "titulo": "Mobile Gaming Corps ClawSocks Carbon Mobile Gaming Finger Sleeves (6PCS)",
     "precio": 12.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-886-148-01.jpg",
-    "titulo": "HELLDIVERS™ 2 - PC [Steam Online Game Code]",
-    "precio": 39.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-701-077-02.jpg",
-    "titulo": "Call of Duty: Modern Warfare II  - Cross-Gen Bundle Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-097-01.jpg",
@@ -260,19 +245,29 @@
     "precio": 49.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-225-01.jpg",
-    "titulo": "Monster Hunter Rise + Sunbreak Xbox Series X|S, Xbox One, Windows [Digital Code]",
-    "precio": 59.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-350-816-01.png",
     "titulo": "Microsoft Flight Simulator - Premium Deluxe Game of the Year Edition Xbox Series X|S, Windows [Digital Code]",
     "precio": 104.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-225-01.jpg",
+    "titulo": "Monster Hunter Rise + Sunbreak Xbox Series X|S, Xbox One, Windows [Digital Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-701-077-02.jpg",
+    "titulo": "Call of Duty: Modern Warfare II  - Cross-Gen Bundle Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 69.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-351-875-01.jpg",
     "titulo": "Minecraft Legends Windows [Digital Code]",
     "precio": 37.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-886-148-01.jpg",
+    "titulo": "HELLDIVERS™ 2 - PC [Steam Online Game Code]",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-141-01.jpg",
@@ -283,6 +278,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/68-815-011-01.jpg",
     "titulo": "Mobile Gaming Corps Comfort Cable Type C 2.5m",
     "precio": 19.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/79-262-018-09.jpg",
+    "titulo": "Kingdom Hearts Game",
+    "precio": 16.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-233-211-01.jpg",
@@ -300,34 +300,9 @@
     "precio": 69.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-329-01.jpg",
-    "titulo": "Hogwarts Legacy: Digital Deluxe Edition Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 72.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-797-01.jpg",
     "titulo": "NBA 2K24: Black Mamba Edition Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 99.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-139-028-06.jpg",
-    "titulo": "Star Wars: Knights of the Old Republic [Steam Game Code]",
-    "precio": 3
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-886-150-09.jpg",
-    "titulo": "Horizon Forbidden West™ Complete Edition - PC [Steam Online Game Code]",
-    "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/79-262-018-09.jpg",
-    "titulo": "Kingdom Hearts Game",
-    "precio": 16.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-116-07.jpg",
-    "titulo": "Sid Meier's Civilization V: Brave New World [Online Game Code]",
-    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-959-108-01.jpg",
@@ -340,9 +315,19 @@
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-149-495-01.png",
-    "titulo": "Prince of Persia: The Lost Crown Standard Edition Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 44.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-329-01.jpg",
+    "titulo": "Hogwarts Legacy: Digital Deluxe Edition Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 72.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-139-028-06.jpg",
+    "titulo": "Star Wars: Knights of the Old Republic [Steam Game Code]",
+    "precio": 3
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-886-150-09.jpg",
+    "titulo": "Horizon Forbidden West™ Complete Edition - PC [Steam Online Game Code]",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-351-794-01.jpg",
@@ -365,9 +350,24 @@
     "precio": 9.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-116-07.jpg",
+    "titulo": "Sid Meier's Civilization V: Brave New World [Online Game Code]",
+    "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-133-095-S01.jpg",
+    "titulo": "Call of Duty 2 for Mac [Online Game Code]",
+    "precio": 14.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-110-07.jpg",
     "titulo": "Bioshock Infinite [Steam Online Game Code]",
     "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-757-01.jpg",
+    "titulo": "WWE 2K23 (Cross-Gen) Xbox Series X | S, Xbox One [Digital Code]",
+    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/74-113-182-S01.jpg",
@@ -380,24 +380,19 @@
     "precio": 43.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/74-117-395-S04.jpg",
-    "titulo": "Crash Team Racing Nitro-Fueled - Xbox One",
-    "precio": 39.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-149-067-01.jpg",
     "titulo": "Anno 1800 Console Edition Xbox Series X|S [Digital Code]",
     "precio": 39.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-149-495-01.png",
+    "titulo": "Prince of Persia: The Lost Crown Standard Edition Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 44.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-101-533-01.jpg",
     "titulo": "STAR WARS JEDI: SURVIVOR - DELUXE EDITION Xbox Series X|S [Digital Code]",
     "precio": 89.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-844-207-01.jpg",
-    "titulo": "Atomic Heart - PC [Steam Online Game Code]",
-    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-844-212-01.jpg",
@@ -425,19 +420,9 @@
     "precio": 29.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-133-095-S01.jpg",
-    "titulo": "Call of Duty 2 for Mac [Online Game Code]",
-    "precio": 14.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-351-092-02.jpg",
     "titulo": "Borderlands 2: Game of the Year Edition [Online Game Code]",
     "precio": 7.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-757-01.jpg",
-    "titulo": "WWE 2K23 (Cross-Gen) Xbox Series X | S, Xbox One [Digital Code]",
-    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-136-420-03.jpg",
@@ -460,19 +445,29 @@
     "precio": 69.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-136-263-S01.jpg",
-    "titulo": "The Elder Scrolls Online: Elsweyr - PC",
-    "precio": 0
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-531-01.jpg",
-    "titulo": "EA SPORTS PGA TOUR Golf 23 Standard Edition Xbox Series X|S [Digital Code]",
-    "precio": 69.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/74-117-395-S04.jpg",
+    "titulo": "Crash Team Racing Nitro-Fueled - Xbox One",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-550-01.jpg",
     "titulo": "Like a Dragon: Infinite Wealth - PC [Steam Online Game Code]",
     "precio": 44.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-136-263-S01.jpg",
+    "titulo": "The Elder Scrolls Online: Elsweyr - PC",
+    "precio": 0
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-844-207-01.jpg",
+    "titulo": "Atomic Heart - PC [Steam Online Game Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-531-01.jpg",
+    "titulo": "EA SPORTS PGA TOUR Golf 23 Standard Edition Xbox Series X|S [Digital Code]",
+    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-142-11.jpg",
@@ -483,11 +478,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-135-01.jpg",
     "titulo": "Sackboy™: A Big Adventure - PC [Steam Online Game Code]",
     "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-886-094-01.jpg",
-    "titulo": "God of War - PC [Steam Online Game Code]",
-    "precio": 44.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/A62VD2109219B57U.jpg",
@@ -515,11 +505,6 @@
     "precio": 11.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/68-815-006-V03.jpg",
-    "titulo": "Mobile Gaming Corps Ronin Gaming Case - iPhone 13 Pro MAX - Mamba Black",
-    "precio": 55.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-101-09.jpg",
     "titulo": "Borderlands 2 for Mac [Online Game Code]",
     "precio": 4.01
@@ -530,8 +515,18 @@
     "precio": 29.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/68-815-006-V03.jpg",
+    "titulo": "Mobile Gaming Corps Ronin Gaming Case - iPhone 13 Pro MAX - Mamba Black",
+    "precio": 55.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-136-407-01.jpg",
     "titulo": "Hi-Fi Rush - Deluxe Edition Upgrade Xbox Series X|S [Digital Code]",
+    "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-490-12.jpg",
+    "titulo": "Company of Heroes 3 Digital Launch Edition - PC [Online Game Code]",
     "precio": 29.01
   },
   {
@@ -550,19 +545,9 @@
     "precio": 55.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-490-12.jpg",
-    "titulo": "Company of Heroes 3 Digital Launch Edition - PC [Online Game Code]",
-    "precio": 29.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-959-113-01.jpg",
     "titulo": "FATAL FRAME: Mask of the Lunar Eclipse Digital Deluxe Edition Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 69.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-472-01.jpg",
-    "titulo": "Jujutsu Kaisen Cursed Clash - PC [Steam Online Game Code]",
-    "precio": 38.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-351-879-01.jpg",
@@ -573,6 +558,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-233-223-01.jpg",
     "titulo": "Resident Evil 4 Xbox Series X|S [Digital Code]",
     "precio": 35.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-472-01.jpg",
+    "titulo": "Jujutsu Kaisen Cursed Clash - PC [Steam Online Game Code]",
+    "precio": 38.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-350-842-V14.jpg",
@@ -587,7 +577,7 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/A9U6S2404160JYWPS59.jpg",
     "titulo": "GameSir X2s Type-C Mobile Gaming Controller for Android, iOS& HarmonyOS Phones, Play Genshin Impact, Call of Duty, Diablo, Village & More",
-    "precio": 39.01
+    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-844-220-01.jpg",
@@ -595,14 +585,14 @@
     "precio": 49.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-528-01.jpg",
-    "titulo": "Wild Hearts Standard Editioin Xbox Series X|S [Digital Code]",
-    "precio": 69.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-844-199-01.jpg",
     "titulo": "A Plague Tale: Requiem - PC [Online Game Code]",
     "precio": 49.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-528-01.jpg",
+    "titulo": "Wild Hearts Standard Editioin Xbox Series X|S [Digital Code]",
+    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-149-492-01.png",
@@ -665,9 +655,9 @@
     "precio": 89.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-295-07.png",
-    "titulo": "ASUS 34\" 240 Hz OLED UWQHD Curved Gaming Monitor NVIDIA G-Sync 3440 x 1440 (2K) DCI-P3 99% sRGB 135% ROG Swift OLED PG34WCDM",
-    "precio": 1299
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-043-01.jpg",
+    "titulo": "GIGABYTE - M34WQ - 34\" IPS Ultrawide Gaming Monitor - WQHD 3440x1440 - 144Hz - 1ms MPRT - AMD FreeSync Premium - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
+    "precio": 349.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-027-217-08.jpg",
@@ -675,9 +665,9 @@
     "precio": 799.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-043-01.jpg",
-    "titulo": "GIGABYTE - M34WQ - 34\" IPS Ultrawide Gaming Monitor - WQHD 3440x1440 - 144Hz - 1ms MPRT - AMD FreeSync Premium - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
-    "precio": 349.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-295-07.png",
+    "titulo": "ASUS 34\" 240 Hz OLED UWQHD Curved Gaming Monitor NVIDIA G-Sync 3440 x 1440 (2K) DCI-P3 99% sRGB 135% ROG Swift OLED PG34WCDM",
+    "precio": 1299
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-027-330-01.jpg",
@@ -690,11 +680,6 @@
     "precio": 199.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-075-V01.jpg",
-    "titulo": "ASUS TUF Gaming 32\" 165Hz QHD HDR Curved Monitor - 2560 x 1440, 1ms, Extreme Low Motion Blur, Speaker, FreeSync Premium, VESA Mountable, DisplayPort, HDMI VG32VQ1B",
-    "precio": 269.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-027-312-01.png",
     "titulo": "Samsung 32\" Odyssey G55C QHD 165Hz Curved Gaming Monitor, 1ms(MPRT), AMD FreeSync, 1xDisplayPort 1.2, 1xHDMI 2.0, Stand Adjustments, LS32CG552ENXZA",
     "precio": 259.01
@@ -705,14 +690,19 @@
     "precio": 199.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-075-V01.jpg",
+    "titulo": "ASUS TUF Gaming 32\" 165Hz QHD HDR Curved Monitor - 2560 x 1440, 1ms, Extreme Low Motion Blur, Speaker, FreeSync Premium, VESA Mountable, DisplayPort, HDMI VG32VQ1B",
+    "precio": 269.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-012-061-10.jpg",
     "titulo": "GIGABYTE - M27U - 27\" IPS Gaming Monitor - UHD 3840x2160 - 160Hz - 1ms MPRT - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
     "precio": 429.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-040-01.jpg",
-    "titulo": "GIGABYTE - M28U - 28\" IPS Gaming Monitor - UHD 3840x2160 - 144Hz - 1ms GTG - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
-    "precio": 399.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-027-327-01.jpg",
+    "titulo": "Samsung 27\" Odyssey OLED G6 (G60SD) QHD 360Hz 0.03ms FreeSync Premium Pro Gaming Monitor with Sleek Metal Design - LS27DG602SNXZA",
+    "precio": 799.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-355-05.png",
@@ -720,8 +710,13 @@
     "precio": 109.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-027-327-01.jpg",
-    "titulo": "Samsung 27\" Odyssey OLED G6 (G60SD) QHD 360Hz 0.03ms FreeSync Premium Pro Gaming Monitor with Sleek Metal Design - LS27DG602SNXZA",
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-040-01.jpg",
+    "titulo": "GIGABYTE - M28U - 28\" IPS Gaming Monitor - UHD 3840x2160 - 144Hz - 1ms GTG - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
+    "precio": 399.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-026-406-07.jpg",
+    "titulo": "34\" UltraGear™ OLED Curved Gaming Monitor WQHD FreeSync Premium Pro   240Hz 0.03ms G-Sync Compatible 800R Tilt, Height, Swivel Adjust",
     "precio": 799.01
   },
   {
@@ -740,11 +735,6 @@
     "precio": 269.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-026-406-07.jpg",
-    "titulo": "34\" UltraGear™ OLED Curved Gaming Monitor WQHD FreeSync Premium Pro   240Hz 0.03ms G-Sync Compatible 800R Tilt, Height, Swivel Adjust",
-    "precio": 799.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-160-455-01.png",
     "titulo": "AOC C32G2ZE 32\" Curved Frameless Gaming Monitor, Full HD 1920x1080, VA, 0.5ms 240Hz, AMD FreeSync Premium, DP/HDMI/VGA, VESA, 3-3-1 Re-Spawn Program, Xbox PS5 Switch, Black",
     "precio": 199.01
@@ -760,11 +750,6 @@
     "precio": 699.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-242-03.png",
-    "titulo": "ASUS TUF Gaming 31.5” 1440P HDR Monitor (VG32AQA1A) - QHD (2560 x 1440), 170Hz, 1ms, Extreme Low Motion Blur, FreeSync Premium, DisplayPort, HDMI, HDR-10, Shadow Boost, VESA Wall Mountable",
-    "precio": 269.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-371-01.png",
     "titulo": "MSI 34\" 180 Hz VA UWQHD Gaming Monitor 3440x1440 (UWQHD) MAG345CQR",
     "precio": 309.01
@@ -772,7 +757,12 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-012-066-18.jpg",
     "titulo": "GIGABYTE - GS27F - 27\" IPS Gaming Monitor - FHD 1920x1080 - 165Hz/OC 170Hz - 1ms MPRT - AMD FreeSync Premium - HDMI, DP - Black",
-    "precio": 119.01
+    "precio": 139.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-242-03.png",
+    "titulo": "ASUS TUF Gaming 31.5” 1440P HDR Monitor (VG32AQA1A) - QHD (2560 x 1440), 170Hz, 1ms, Extreme Low Motion Blur, FreeSync Premium, DisplayPort, HDMI, HDR-10, Shadow Boost, VESA Wall Mountable",
+    "precio": 269.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-343-02.png",
@@ -780,14 +770,14 @@
     "precio": 119.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-086-01.jpg",
-    "titulo": "GIGABYTE - MO34WQC (US) - 34\" QD-OLED Curved Gaming Monitor - WQHD 3440x1440 - Curved - 175 Hz - 0.03ms GTG - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
-    "precio": 849.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-306-30.jpg",
     "titulo": "MSI 32\" (31.5\" Viewable) 170 Hz Rapid VA with Quantum Dot QHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 2560 x 1440 (2K) MAG325CQRF QD",
     "precio": 279.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-086-01.jpg",
+    "titulo": "GIGABYTE - MO34WQC (US) - 34\" QD-OLED Curved Gaming Monitor - WQHD 3440x1440 - Curved - 175 Hz - 0.03ms GTG - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
+    "precio": 849.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-395-01.jpg",
@@ -845,14 +835,14 @@
     "precio": 137.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS2403210D270R1A.jpg",
-    "titulo": "Dowinx Gaming Chair with Pocket Spring Cushion, Breathable Fabric Computer Chair with Gel Pad, Comfortable Office Chair with Storage Bag, Massage Game Chair with Footrest, Black",
-    "precio": 159.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS2404100K3NNO4D.jpg",
     "titulo": "Dowinx Gaming Chair with Pocket Spring Cushion, Ergonomic Computer Chair with Footrest and Lumbar Support for Office or Gaming, Black",
     "precio": 95.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS2403210D270R1A.jpg",
+    "titulo": "Dowinx Gaming Chair with Pocket Spring Cushion, Breathable Fabric Computer Chair with Gel Pad, Comfortable Office Chair with Storage Bag, Massage Game Chair with Footrest, Black",
+    "precio": 159.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS24032505WK67B5.jpg",
@@ -860,9 +850,9 @@
     "precio": 129.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/AG9FS22050704S5GI00.jpg",
-    "titulo": "Vitesse Gaming Office Chair with Carbon Fiber Design, High Back Racing Style Seat, Swivel, Lumbar Support and Headrest (Red)",
-    "precio": 87.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS24032107CPLK31.jpg",
+    "titulo": "Dowinx Gaming Chair with Pocket Spring Cushion Vintage Style, Breathable PU Leather Gamer Chair, Ergonomic Computer Chair with Massage Lumbar Support and Footrest (Black White)",
+    "precio": 159.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/AG9FS2401250HH9N126.jpg",
@@ -870,9 +860,9 @@
     "precio": 108.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS2403200J2H0W3E.jpg",
-    "titulo": "Dowinx Gaming Chair with Pocket Spring Cushion Vintage Style, Breathable PU Leather Gamer Chair, Ergonomic Computer Chair with Massage Lumbar Support and Footrest (Black) Grey",
-    "precio": 145.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/AG9FS22050704S5GI00.jpg",
+    "titulo": "Vitesse Gaming Office Chair with Carbon Fiber Design, High Back Racing Style Seat, Swivel, Lumbar Support and Headrest (Red)",
+    "precio": 87.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/AG9FS2404170IPIQ4F5.jpg",
@@ -880,14 +870,9 @@
     "precio": 119.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/AKUYS24032107CPLK31.jpg",
-    "titulo": "Dowinx Gaming Chair with Pocket Spring Cushion Vintage Style, Breathable PU Leather Gamer Chair, Ergonomic Computer Chair with Massage Lumbar Support and Footrest (Black White)",
-    "precio": 159.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/AXKAS23090103KPZU34.jpg",
-    "titulo": "Fantasylab Big and Tall 440lb Memory Foam Gaming Chair With 4D Flip-up Armrests, Racing Style PU Leather High Back Adjustable Swivel Task Chair (Black) Grey Black",
-    "precio": 249.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/AXKAS23083107GQNJ7B.jpg",
+    "titulo": "Fantasylab Big and Tall Gaming Chair 440lb Metal Base Memory Foam Lumbar Seat Cushion 4D Adjustable Arms Swivels & Reclines Ergonomic High-Back Racing Computer Gaming Chair",
+    "precio": 239.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/AEVHS23050604T1771F.jpg",
@@ -898,6 +883,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/AXKAS2308310H0O05C8.jpg",
     "titulo": "Fantasylab Big and Tall Gaming Chair Gaming Chair 440lb with 3D Flip-up Armrests Ergonomic Design Gaming Chair Adjustable Features Computer Chair for Gamers Gaming Chairs for Adults Black",
     "precio": 299.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/AXKAS2405210E3AP45E.jpg",
+    "titulo": "Gaming Chair with Footrest Office Chair Computer Chair Ergonomic Racing Style PU Leather Reclining Desk Chair with Massage Grey",
+    "precio": 159.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-137-086-V21.jpg",
@@ -920,13 +910,13 @@
     "precio": 29.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-681-S21.jpg",
-    "titulo": "Splatoon 2 - Nintendo Switch",
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-692-S08.jpg",
+    "titulo": "Super Mario Odyssey - Nintendo Switch",
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-692-S08.jpg",
-    "titulo": "Super Mario Odyssey - Nintendo Switch",
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-681-S21.jpg",
+    "titulo": "Splatoon 2 - Nintendo Switch",
     "precio": 59.01
   },
   {
@@ -935,13 +925,18 @@
     "precio": 59.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-766-S01.jpg",
+    "titulo": "Super Mario Party - Nintendo Switch",
+    "precio": 54.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/78-113-062-S05.jpg",
     "titulo": "Civilization VI - Nintendo Switch",
     "precio": 39.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-766-S01.jpg",
-    "titulo": "Super Mario Party - Nintendo Switch",
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-731-S04.jpg",
+    "titulo": "Donkey Kong Country: Tropical Freeze - Nintendo Switch",
     "precio": 54.01
   },
   {
@@ -950,14 +945,19 @@
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-731-S04.jpg",
-    "titulo": "Donkey Kong Country: Tropical Freeze - Nintendo Switch",
-    "precio": 54.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-734-S07.jpg",
+    "titulo": "Mario Tennis Aces - Nintendo Switch",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-137-091-S51.jpg",
     "titulo": "Red Dead Redemption 2 Xbox One [Digital Code]",
     "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-166-409-V01.jpg",
+    "titulo": "NieR Replicant ver.1.22474487139… [Steam Online Game Code]",
+    "precio": 49.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-351-782-V01.jpg",
@@ -970,16 +970,6 @@
     "precio": 9.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-137-119-S08.jpg",
-    "titulo": "Red Dead Redemption 2 for PC [Online Game Code]",
-    "precio": 23.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-166-409-V01.jpg",
-    "titulo": "NieR Replicant ver.1.22474487139… [Steam Online Game Code]",
-    "precio": 49.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-321-01.jpg",
     "titulo": "Hogwarts Legacy Digital Deluxe Edition - PC [Steam Game Code]",
     "precio": 69.01
@@ -990,14 +980,14 @@
     "precio": 11.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-734-S07.jpg",
-    "titulo": "Mario Tennis Aces - Nintendo Switch",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-303-01.jpg",
+    "titulo": "ACE COMBAT™ 7: SKIES UNKNOWN  [Online Game Code]",
+    "precio": 5.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/79-807-033-V01.jpg",
-    "titulo": "Tom Clancy's The Division 2 - PlayStation 4",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-137-119-S08.jpg",
+    "titulo": "Red Dead Redemption 2 for PC [Online Game Code]",
+    "precio": 23.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-392-01.jpg",
@@ -1020,99 +1010,9 @@
     "precio": 119.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-303-01.jpg",
-    "titulo": "ACE COMBAT™ 7: SKIES UNKNOWN  [Online Game Code]",
-    "precio": 5.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-608-V01.jpg",
-    "titulo": "Borderlands 3: Next Level Edition Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 6.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-102-05.jpg",
-    "titulo": "Borderlands 2 Mechromancer for Mac [Online Game Code]",
-    "precio": 9.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-831-V01.jpg",
-    "titulo": "HITMAN 3 Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 53.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-615-01.jpg",
-    "titulo": "Borderlands 3: Ultimate Edition (Steam) [Online Game Code]",
-    "precio": 29.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-137-094-V01.jpg",
-    "titulo": "Grand Theft Auto V: Premium Online Edition Xbox One [Digital Code]",
-    "precio": 29.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-819-V11.jpg",
-    "titulo": "Halo Infinite Xbox Series X | S / Xbox One / Windows 10 [Digital Code]",
+    "img": "https://c1.neweggimages.com/productimage/nb300/79-807-033-V01.jpg",
+    "titulo": "Tom Clancy's The Division 2 - PlayStation 4",
     "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-127-044-V01.jpg",
-    "titulo": "Diablo II: Resurrected - Prime Evil Collection Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 53.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-449-S01.jpg",
-    "titulo": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Digital Deluxe Edition for PC [Online Game Code]",
-    "precio": 22.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-257-S01.jpg",
-    "titulo": "Middle-earth: Shadow of War Definitive Edition [PC Online Game Code]",
-    "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-483-01.jpg",
-    "titulo": "Soul Hackers 2 - Premium Edition - PC [Steam Online Game Code]",
-    "precio": 20.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-992-011-V01.jpg",
-    "titulo": "Cyberpunk 2077 Xbox One [Digital Code]",
-    "precio": 53.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-992-011-V01.jpg",
-    "titulo": "Cyberpunk 2077 Xbox One [Digital Code]",
-    "precio": 53.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-591-V01.jpg",
-    "titulo": "Mafia: Definitive Edition Xbox One [Digital Code]",
-    "precio": 39.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-426-011-11.jpg",
-    "titulo": "Destiny 2: The Witch Queen - PC [Steam Online Game Code]",
-    "precio": 29.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-796-01.jpg",
-    "titulo": "Microsoft Flight Simulator 40th Anniversary Deluxe Edition Xbox Series X|S, Windows [Digital Code]",
-    "precio": 89.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-136-092.jpg",
-    "titulo": "Prey - PC",
-    "precio": 14.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-693-01.jpg",
-    "titulo": "NBA 2K23 - PC [Online Game Code]",
-    "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-158-S12.jpg",
-    "titulo": "Sid Meier's Civilization VI: Platinum Edition (Steam) [Online Game Code]",
-    "precio": 44.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-283-01.jpg",
@@ -1120,19 +1020,59 @@
     "precio": 9.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-615-01.jpg",
+    "titulo": "Borderlands 3: Ultimate Edition (Steam) [Online Game Code]",
+    "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-257-S01.jpg",
+    "titulo": "Middle-earth: Shadow of War Definitive Edition [PC Online Game Code]",
+    "precio": 59.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-281-S11.jpg",
     "titulo": "Batman: Arkham Collection [Online Game Code]",
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-440-01.jpg",
-    "titulo": "Yakuza 6: The Song of Life for PC [Steam Online Game Code]",
-    "precio": 5.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-102-05.jpg",
+    "titulo": "Borderlands 2 Mechromancer for Mac [Online Game Code]",
+    "precio": 9.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-272-01.jpg",
-    "titulo": "DARK SOULS™: REMASTERED  [Online Game Code]",
-    "precio": 39.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-796-01.jpg",
+    "titulo": "Microsoft Flight Simulator 40th Anniversary Deluxe Edition Xbox Series X|S, Windows [Digital Code]",
+    "precio": 89.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-693-01.jpg",
+    "titulo": "NBA 2K23 - PC [Online Game Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-449-S01.jpg",
+    "titulo": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Digital Deluxe Edition for PC [Online Game Code]",
+    "precio": 22.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-127-044-V01.jpg",
+    "titulo": "Diablo II: Resurrected - Prime Evil Collection Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 53.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-831-V01.jpg",
+    "titulo": "HITMAN 3 Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 53.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-992-011-V01.jpg",
+    "titulo": "Cyberpunk 2077 Xbox One [Digital Code]",
+    "precio": 53.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-158-S12.jpg",
+    "titulo": "Sid Meier's Civilization VI: Platinum Edition (Steam) [Online Game Code]",
+    "precio": 44.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-303-01.jpg",
@@ -1145,9 +1085,39 @@
     "precio": 14.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-959-052-V09.jpg",
-    "titulo": "DEAD OR ALIVE 6 Digital Deluxe Edition [Online Game Code]",
-    "precio": 79.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-295-V01.jpg",
+    "titulo": "Mortal Kombat 11 Ultimate [Online Game Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-136-092.jpg",
+    "titulo": "Prey - PC",
+    "precio": 14.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-483-01.jpg",
+    "titulo": "Soul Hackers 2 - Premium Edition - PC [Steam Online Game Code]",
+    "precio": 20.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-591-V01.jpg",
+    "titulo": "Mafia: Definitive Edition Xbox One [Digital Code]",
+    "precio": 39.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-440-01.jpg",
+    "titulo": "Yakuza 6: The Song of Life for PC [Steam Online Game Code]",
+    "precio": 5.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-426-011-11.jpg",
+    "titulo": "Destiny 2: The Witch Queen - PC [Steam Online Game Code]",
+    "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-272-01.jpg",
+    "titulo": "DARK SOULS™: REMASTERED  [Online Game Code]",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-695-V01.jpg",
@@ -1155,19 +1125,29 @@
     "precio": 69.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-137-094-V01.jpg",
+    "titulo": "Grand Theft Auto V: Premium Online Edition Xbox One [Digital Code]",
+    "precio": 29.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-130-859-V06.jpg",
     "titulo": "Forza Horizon 4: Standard Edition Xbox One / Windows 10 [Digital Code]",
     "precio": 51
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-067-07.jpg",
-    "titulo": "Lego Harry Potter: Years 1 - 4 [Online Game Code]",
-    "precio": 19.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-324-S07.jpg",
     "titulo": "Two Point Hospital [Online Game Code]",
     "precio": 5.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-733-S04.jpg",
+    "titulo": "Kirby Star Allies - Nintendo Switch",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-422-01.jpg",
+    "titulo": "Persona 5 Strikers - Digital Deluxe Edition [PC Online Game Code]",
+    "precio": 19.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-233-199-01.jpg",
@@ -1180,19 +1160,14 @@
     "precio": 41.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-341-S09.jpg",
-    "titulo": "Total War: THREE KINGDOMS [Online Game Code]",
-    "precio": 53.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-493-09.jpg",
     "titulo": "Sonic Frontiers Deluxe Edition - PC [Online Game Code]",
     "precio": 24
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-834-V01.jpg",
-    "titulo": "Sea of Thieves Xbox Series X|S, Xbox One, Windows [Digital Code]",
-    "precio": 39.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-393-S01.jpg",
+    "titulo": "Yakuza: Like a Dragon for PC [Steam Online Game Code]",
+    "precio": 17.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-281-S11.jpg",
@@ -1205,19 +1180,9 @@
     "precio": 7.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-528-V06.jpg",
-    "titulo": "Borderlands 3 (Steam) [Online Game Code]",
-    "precio": 5.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-795-01.jpg",
-    "titulo": "Microsoft Flight Simulator 40th Anniversary Xbox Series X|S, Windows [Digital Code]",
-    "precio": 53.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-295-V01.jpg",
-    "titulo": "Mortal Kombat 11 Ultimate [Online Game Code]",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-697-V01.jpg",
+    "titulo": "NBA 2K23: Michael Jordan Edition Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 91.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-394-S02.jpg",
@@ -1225,9 +1190,19 @@
     "precio": 26.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-818-01.jpg",
-    "titulo": "Gears Tactics Xbox Series X | S / Xbox One / Windows 10 [Digital Code]",
-    "precio": 35.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-795-01.jpg",
+    "titulo": "Microsoft Flight Simulator 40th Anniversary Xbox Series X|S, Windows [Digital Code]",
+    "precio": 53.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-728-01.jpg",
+    "titulo": "PGA Tour 2K23 Xbox One [Digital Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-819-V11.jpg",
+    "titulo": "Halo Infinite Xbox Series X | S / Xbox One / Windows 10 [Digital Code]",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-684-01.jpg",
@@ -1235,9 +1210,9 @@
     "precio": 14.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-184-V02.jpg",
-    "titulo": "Resident Evil Village Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 36.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-473-01.jpg",
+    "titulo": "Two Point Campus - PC [Online Game Code]",
+    "precio": 5.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-886-134-18.png",
@@ -1250,14 +1225,14 @@
     "precio": 9.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/78-190-733-S04.jpg",
-    "titulo": "Kirby Star Allies - Nintendo Switch",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-341-S09.jpg",
+    "titulo": "Total War: THREE KINGDOMS [Online Game Code]",
+    "precio": 53.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-473-01.jpg",
-    "titulo": "Two Point Campus - PC [Online Game Code]",
-    "precio": 5.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-192-01.jpg",
+    "titulo": "Halo Infinite - 10,000 Halo Credits + 1,500 Bonus Xbox Series X|S, Xbox One, Windows 10 [Digital Code]",
+    "precio": 89.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-701-042-V01.jpg",
@@ -1265,9 +1240,19 @@
     "precio": 69.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-029-03.jpg",
+    "titulo": "DARK SOULS III - Deluxe Edition [Online Game Code]",
+    "precio": 82.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-136-089-S11.jpg",
     "titulo": "The Elder Scrolls V Skyrim: Special Edition [Online Game Code]",
     "precio": 35.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-834-V01.jpg",
+    "titulo": "Sea of Thieves Xbox Series X|S, Xbox One, Windows [Digital Code]",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-136-085-01.jpg",
@@ -1275,19 +1260,24 @@
     "precio": 17.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-608-V01.jpg",
+    "titulo": "Borderlands 3: Next Level Edition Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 6.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-698-V01.jpg",
     "titulo": "NBA 2K23 Xbox One [Digital Code]",
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-959-026-S08.jpg",
-    "titulo": "Nioh: Complete Edition [Online Game Code]",
-    "precio": 49.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-528-V06.jpg",
+    "titulo": "Borderlands 3 (Steam) [Online Game Code]",
+    "precio": 5.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-697-V01.jpg",
-    "titulo": "NBA 2K23: Michael Jordan Edition Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 91.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-959-052-V09.jpg",
+    "titulo": "DEAD OR ALIVE 6 Digital Deluxe Edition [Online Game Code]",
+    "precio": 79.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-658-013-01.jpg",
@@ -1300,29 +1290,19 @@
     "precio": 53.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-203-17.jpg",
-    "titulo": "Resident Evil Village - Winters’ Expansion - PC [Online Game Code]",
-    "precio": 9.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-067-07.jpg",
+    "titulo": "Lego Harry Potter: Years 1 - 4 [Online Game Code]",
+    "precio": 19.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-728-01.jpg",
-    "titulo": "PGA Tour 2K23 Xbox One [Digital Code]",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-184-V02.jpg",
+    "titulo": "Resident Evil Village Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 36.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-393-S01.jpg",
-    "titulo": "Yakuza: Like a Dragon for PC [Steam Online Game Code]",
-    "precio": 17.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-329-S06.jpg",
-    "titulo": "Valkyria Chronicles 4 Complete Edition [Steam Online Game Code]",
-    "precio": 9.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-407-V06.jpg",
-    "titulo": "Mass Effect Legendary Edition Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-694-01.jpg",
+    "titulo": "NBA 2K23 Michael Jordan Edition - PC [Steam Online Game Code]",
+    "precio": 99.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-264-007-01.jpg",
@@ -1332,6 +1312,11 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-701-047-V02.jpg",
     "titulo": "Crash Bandicoot 4: It's About Time Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-407-V06.jpg",
+    "titulo": "Mass Effect Legendary Edition Xbox Series X | S / Xbox One [Digital Code]",
     "precio": 59.01
   },
   {
@@ -1345,19 +1330,14 @@
     "precio": 46.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-351-192-01.jpg",
-    "titulo": "Halo Infinite - 10,000 Halo Credits + 1,500 Bonus Xbox Series X|S, Xbox One, Windows 10 [Digital Code]",
-    "precio": 89.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-806-058-01.jpg",
+    "titulo": "Are You Smarter Than A 5th Grader - PC [Online Game Code]",
+    "precio": 29.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-959-079-05.jpg",
-    "titulo": "Nioh 2: The Complete Edition [Online Game Code]",
-    "precio": 44.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/74-122-080-S01.jpg",
-    "titulo": "The Elder Scrolls Online: Elsweyr - Xbox One",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-844-124-S07.jpg",
+    "titulo": "GreedFall [Online Game Code]",
+    "precio": 32.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-138-991-02.jpg",
@@ -1365,9 +1345,14 @@
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-021-461-01.jpg",
-    "titulo": "Victoria 3 - PC [Online Game Code]",
-    "precio": 49.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-959-079-05.jpg",
+    "titulo": "Nioh 2: The Complete Edition [Online Game Code]",
+    "precio": 44.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-021-382-V15.jpg",
+    "titulo": "Crusader Kings III [Online Game Code]",
+    "precio": 44.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-193-064-V01.jpg",
@@ -1380,19 +1365,9 @@
     "precio": 39.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-029-03.jpg",
-    "titulo": "DARK SOULS III - Deluxe Edition [Online Game Code]",
-    "precio": 82.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-225-011-01.jpg",
     "titulo": "Persona 5 Royal Xbox Series X|S, Xbox One, Windows [Digital Code]",
     "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-699-01.jpg",
-    "titulo": "NBA 2K23 - 15,000 VC Xbox Series X|S / Xbox One [Digital Code]",
-    "precio": 4.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-014-026-01.jpg",
@@ -1400,19 +1375,14 @@
     "precio": 14.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-465-S02.jpg",
-    "titulo": "Super Monkey Ball Banana Mania Digital Deluxe Edition  [Online Game Code]",
-    "precio": 39.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-388-01.jpg",
     "titulo": "SD Gundam Battle Alliance Deluxe Edition - PC [Online Game Code]",
     "precio": 21
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-386-V02.jpg",
-    "titulo": "Need for Speed Hot Pursuit Remastered Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 39.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-388-S22.jpg",
+    "titulo": "Persona 4 Golden: Deluxe Edition [Online Game Code]",
+    "precio": 14.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-087-02.jpg",
@@ -1425,9 +1395,14 @@
     "precio": 14.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-388-S22.jpg",
-    "titulo": "Persona 4 Golden: Deluxe Edition [Online Game Code]",
-    "precio": 14.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-386-V02.jpg",
+    "titulo": "Need for Speed Hot Pursuit Remastered Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 39.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-578-V01.jpg",
+    "titulo": "PGA Tour 2K21 Xbox One [Digital Code]",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-101-133-V02.jpg",
@@ -1440,19 +1415,19 @@
     "precio": 79.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-959-026-S08.jpg",
+    "titulo": "Nioh: Complete Edition [Online Game Code]",
+    "precio": 49.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-557-V01.jpg",
     "titulo": "Borderlands 3: Bounty of Blood Xbox One [Digital Code]",
     "precio": 14.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-388-01.jpg",
-    "titulo": "EA Play 6 Month Subscription Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 23.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-625-01.jpg",
-    "titulo": "XCOM: Ultimate Collection  [Online Game Code]",
-    "precio": 19
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-839-V08.jpg",
+    "titulo": "Psychonauts 2 Xbox Series X|S and Xbox One and Win 10 [Digital Code]",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-166-415-V07.jpg",
@@ -1465,9 +1440,19 @@
     "precio": 49.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-839-V08.jpg",
-    "titulo": "Psychonauts 2 Xbox Series X|S and Xbox One and Win 10 [Digital Code]",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-625-01.jpg",
+    "titulo": "XCOM: Ultimate Collection  [Online Game Code]",
+    "precio": 19
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-388-01.jpg",
+    "titulo": "EA Play 6 Month Subscription Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 23.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-437-01.jpg",
+    "titulo": "Total War: THREE KINGDOMS - Fates Divided  [Online Game Code]",
+    "precio": 9.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-094-02.jpg",
@@ -1480,6 +1465,11 @@
     "precio": 2.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-350-818-01.jpg",
+    "titulo": "Gears Tactics Xbox Series X | S / Xbox One / Windows 10 [Digital Code]",
+    "precio": 35.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-136-217-S09.jpg",
     "titulo": "Fallout 4 - Game Of The Year [Online Game Code]",
     "precio": 39.01
@@ -1490,8 +1480,18 @@
     "precio": 53.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-437-01.jpg",
-    "titulo": "Total War: THREE KINGDOMS - Fates Divided  [Online Game Code]",
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-203-17.jpg",
+    "titulo": "Resident Evil Village - Winters’ Expansion - PC [Online Game Code]",
+    "precio": 9.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-166-413-V11.jpg",
+    "titulo": "Life is Strange: True Colors Deluxe Edition [Online Game Code]",
+    "precio": 69.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-329-S06.jpg",
+    "titulo": "Valkyria Chronicles 4 Complete Edition [Steam Online Game Code]",
     "precio": 9.01
   },
   {
@@ -1500,13 +1500,8 @@
     "precio": 49.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-166-413-V11.jpg",
-    "titulo": "Life is Strange: True Colors Deluxe Edition [Online Game Code]",
-    "precio": 69.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-264-006-01.jpg",
-    "titulo": "eFootball™ Coin 3300 Xbox Series X|S, Xbox One, Windows [Digital Code]",
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-134-01.jpg",
+    "titulo": "The Dark Pictures Anthology: Little Hope Xbox One [Digital Code]",
     "precio": 29.01
   },
   {
@@ -1525,19 +1520,19 @@
     "precio": 19.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-694-01.jpg",
-    "titulo": "NBA 2K23 Michael Jordan Edition - PC [Steam Online Game Code]",
-    "precio": 99.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-439-V01.jpg",
+    "titulo": "Total War: Rome Remastered [Online Game Code]",
+    "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-107-10.jpg",
+    "titulo": "Borderlands 2: Psycho Pack for Mac [Online Game Code]",
+    "precio": 9.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-729-01.jpg",
     "titulo": "PGA Tour 2K23 (Cross Gen) Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 17
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-439-V01.jpg",
-    "titulo": "Total War: Rome Remastered [Online Game Code]",
-    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-959-085-V06.jpg",
@@ -1550,24 +1545,9 @@
     "precio": 49.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-825-005-V01.jpg",
-    "titulo": "Killing Floor 2 Digital Deluxe Edition [Online Game Code]",
-    "precio": 39.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-176-V01.jpg",
-    "titulo": "STAR WARS: Squadrons Xbox One [Digital Code]",
-    "precio": 36
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-494-01.jpg",
     "titulo": "Sonic Frontiers - PC [Online Game Code]",
     "precio": 19.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-806-058-01.jpg",
-    "titulo": "Are You Smarter Than A 5th Grader - PC [Online Game Code]",
-    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-285-S06.jpg",
@@ -1575,14 +1555,9 @@
     "precio": 53.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-844-124-S07.jpg",
-    "titulo": "GreedFall [Online Game Code]",
-    "precio": 32.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-225-010-V01.jpg",
-    "titulo": "Soul Hackers 2 Xbox Series X|S, Xbox One, Windows [Digital Code]",
-    "precio": 54.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-825-005-V01.jpg",
+    "titulo": "Killing Floor 2 Digital Deluxe Edition [Online Game Code]",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-203-355-S04.jpg",
@@ -1590,9 +1565,29 @@
     "precio": 9.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-430-V08.jpg",
-    "titulo": "Battlefield 2042: Standard Edition Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 62.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/74-122-080-S01.jpg",
+    "titulo": "The Elder Scrolls Online: Elsweyr - Xbox One",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-441-S01.jpg",
+    "titulo": "Shin Megami Tensei III Nocturne HD Remaster Digital Deluxe Edition  [Online Game Code]",
+    "precio": 16.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-481-01.jpg",
+    "titulo": "Soul Hackers 2 - PC [Online Game Code]",
+    "precio": 14.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-482-01.jpg",
+    "titulo": "Soul Hackers 2 - Deluxe Edition - PC [Steam Online Game Code]",
+    "precio": 16.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-176-V01.jpg",
+    "titulo": "STAR WARS: Squadrons Xbox One [Digital Code]",
+    "precio": 36
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-014-010-V01.jpg",
@@ -1610,19 +1605,9 @@
     "precio": 29.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-481-01.jpg",
-    "titulo": "Soul Hackers 2 - PC [Online Game Code]",
-    "precio": 14.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-482-01.jpg",
-    "titulo": "Soul Hackers 2 - Deluxe Edition - PC [Steam Online Game Code]",
-    "precio": 16.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-512-01.jpg",
-    "titulo": "FIFA 23 - 12000 FIFA Points Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 99.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-021-461-01.jpg",
+    "titulo": "Victoria 3 - PC [Online Game Code]",
+    "precio": 49.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-246-195-S11.jpg",
@@ -1630,14 +1615,9 @@
     "precio": 44.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-843-655-01.jpg",
-    "titulo": "Steelrising - PC [Online Game Code]",
-    "precio": 49.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-021-382-V15.jpg",
-    "titulo": "Crusader Kings III [Online Game Code]",
-    "precio": 44.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-430-V08.jpg",
+    "titulo": "Battlefield 2042: Standard Edition Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 62.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-284-S01.jpg",
@@ -1645,19 +1625,29 @@
     "precio": 39.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-844-198-01.jpg",
+    "titulo": "Evil West - PC [Online Game Code]",
+    "precio": 49.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-512-01.jpg",
+    "titulo": "FIFA 23 - 12000 FIFA Points Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 99.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-189-V01.jpg",
     "titulo": "Dragon Ball Z: Kakarot Xbox One [Digital Code]",
+    "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-843-656-01.jpg",
+    "titulo": "Steelrising - Bastille Edition - PC [Online Game Code]",
     "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-319-01.jpg",
     "titulo": "Gotham Knights - PC [Online Game Code]",
     "precio": 59.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-701-061-01.jpg",
-    "titulo": "Call of Duty: Vanguard - Cross-Gen Bundle Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/AEVHS22051802LQ4A0C.jpg",
@@ -1685,6 +1675,11 @@
     "precio": 8.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-699-01.jpg",
+    "titulo": "NBA 2K23 - 15,000 VC Xbox Series X|S / Xbox One [Digital Code]",
+    "precio": 4.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-705-01.jpg",
     "titulo": "NBA 2K23 - 75,000 VC Xbox Series X|S / Xbox One [Digital Code]",
     "precio": 18
@@ -1703,6 +1698,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-700-01.jpg",
     "titulo": "NBA 2K23 - 200,000 VC Xbox Series X|S / Xbox One [Digital Code]",
     "precio": 45.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-465-S02.jpg",
+    "titulo": "Super Monkey Ball Banana Mania Digital Deluxe Edition  [Online Game Code]",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-351-777-01.jpg",
@@ -1725,11 +1725,6 @@
     "precio": 9.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-093-02.jpg",
-    "titulo": "Sid Meier's Civilization V: Civilization and Scenario Pack - Denmark for Mac [Online Game Code]",
-    "precio": 4.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-095-02.jpg",
     "titulo": "Sid Meier's Civilization V: Civilization and Scenario Pack - Korea for Mac [Online Game Code]",
     "precio": 4.01
@@ -1740,14 +1735,14 @@
     "precio": 7
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-093-02.jpg",
+    "titulo": "Sid Meier's Civilization V: Civilization and Scenario Pack - Denmark for Mac [Online Game Code]",
+    "precio": 4.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-411-01.jpg",
     "titulo": "ONE PIECE ODYSSEY - PC [Online Game Code]",
     "precio": 29.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-578-V01.jpg",
-    "titulo": "PGA Tour 2K21 Xbox One [Digital Code]",
-    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-730-01.jpg",
@@ -1770,16 +1765,6 @@
     "precio": 19.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-521-01.jpg",
-    "titulo": "NHL 23: 3000 Points Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 24.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-513-01.jpg",
-    "titulo": "FIFA 23 - 2800 FIFA Points Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 24.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-751-111-V01.jpg",
     "titulo": "Overcooked! All You Can Eat  [Online Game Code]",
     "precio": 15.01
@@ -1800,9 +1785,24 @@
     "precio": 53.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-492-01.jpg",
+    "titulo": "Total War: WARHAMMER III - Champions of Chaos - PC [Online Game Code]",
+    "precio": 15.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-091-02.jpg",
     "titulo": "Sid Meier's Civilization V: Cradle of Civilization - Mesopotamia for Mac [Online Game Code]",
     "precio": 2.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-513-01.jpg",
+    "titulo": "FIFA 23 - 2800 FIFA Points Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 24.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-521-01.jpg",
+    "titulo": "NHL 23: 3000 Points Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 24.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-098-02.jpg",
@@ -1860,19 +1860,14 @@
     "precio": 7
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-492-01.jpg",
-    "titulo": "Total War: WARHAMMER III - Champions of Chaos - PC [Online Game Code]",
-    "precio": 15.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-508-01.jpg",
-    "titulo": "MADDEN NFL 23: 5850 Madden Points Xbox Series X|S / Xbox One [Digital Code]",
-    "precio": 45.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-166-410-V14.jpg",
     "titulo": "Outriders Xbox Series X|S / Xbox One [Digital Code]",
     "precio": 39.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-264-006-01.jpg",
+    "titulo": "eFootball™ Coin 3300 Xbox Series X|S, Xbox One, Windows [Digital Code]",
+    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-264-005-01.jpg",
@@ -1885,14 +1880,14 @@
     "precio": 29.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-508-01.jpg",
+    "titulo": "MADDEN NFL 23: 5850 Madden Points Xbox Series X|S / Xbox One [Digital Code]",
+    "precio": 45.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-409-01.jpg",
     "titulo": "Dragon Ball: The Breakers Standard Edition Xbox One [Digital Code]",
     "precio": 19.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-134-01.jpg",
-    "titulo": "The Dark Pictures Anthology: Little Hope Xbox One [Digital Code]",
-    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-021-463-06.jpg",
@@ -1928,11 +1923,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-402-042-V01.jpg",
     "titulo": "DC League of Super-Pets: The Adventures of Krypto & Ace Xbox One [Digital Code]",
     "precio": 39.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-205-107-10.jpg",
-    "titulo": "Borderlands 2: Psycho Pack for Mac [Online Game Code]",
-    "precio": 9.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-350-432-S01.jpg",
@@ -1980,11 +1970,6 @@
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-136-340-01.jpg",
-    "titulo": "DEATHLOOP for PC [Online Game Code]",
-    "precio": 59.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-405-01.jpg",
     "titulo": "DRAGON BALL: THE BREAKERS - PC [Online Game Code]",
     "precio": 4.01
@@ -1993,16 +1978,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-882-005-V01.jpg",
     "titulo": "Destiny 2: Beyond Light Xbox Series X | S / Xbox One [Digital Code]",
     "precio": 19.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-109-V01.jpg",
-    "titulo": "The Sims 4: Discover University Xbox One [Digital Code]",
-    "precio": 39.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-109-01.jpg",
-    "titulo": "Devil May Cry 5: Special Edition Xbox Series X | S [Digital Code]",
-    "precio": 35.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-390-01.jpg",
@@ -2020,14 +1995,19 @@
     "precio": 99.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-193-071-S01.jpg",
-    "titulo": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated Xbox One [Digital Code]",
-    "precio": 29.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-233-109-01.jpg",
+    "titulo": "Devil May Cry 5: Special Edition Xbox Series X | S [Digital Code]",
+    "precio": 35.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-737-01.jpg",
     "titulo": "New Tales from the Borderlands Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 39.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-193-071-S01.jpg",
+    "titulo": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated Xbox One [Digital Code]",
+    "precio": 29.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-197-S01.jpg",
@@ -2038,6 +2018,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/79-228-100-S01.jpg",
     "titulo": "The Elder Scrolls Online: Elsweyr - PlayStation 4",
     "precio": 0
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-109-V01.jpg",
+    "titulo": "The Sims 4: Discover University Xbox One [Digital Code]",
+    "precio": 39.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-193-081-01.jpg",
@@ -2075,6 +2060,11 @@
     "precio": 7
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-499-01.jpg",
+    "titulo": "Like a Dragon: Ishin! – Digital Deluxe - PC [Online Game Code]",
+    "precio": 26.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-749-202-01.jpg",
     "titulo": "The Fold: Ingression - PC [Online Game Code]",
     "precio": 19.01
@@ -2095,9 +2085,9 @@
     "precio": 29.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-511-01.jpg",
-    "titulo": "Battlefield 2042: 13000 BFC Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 99.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-225-010-V01.jpg",
+    "titulo": "Soul Hackers 2 Xbox Series X|S, Xbox One, Windows [Digital Code]",
+    "precio": 54.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-205-738-01.jpg",
@@ -2110,19 +2100,9 @@
     "precio": 54.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-499-01.jpg",
-    "titulo": "Like a Dragon: Ishin! – Digital Deluxe - PC [Online Game Code]",
-    "precio": 26.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-203-441-S01.jpg",
-    "titulo": "Shin Megami Tensei III Nocturne HD Remaster Digital Deluxe Edition  [Online Game Code]",
-    "precio": 16.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-258-V01.jpg",
-    "titulo": "Tales of Arise Xbox Series X | S / Xbox One [Digital Code]",
-    "precio": 53.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-397-01.jpg",
+    "titulo": "Digimon Survive Month 1 Edition Xbox One [Digital Code]",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-811-197-V01.jpg",
@@ -2135,9 +2115,9 @@
     "precio": 19.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-397-01.jpg",
-    "titulo": "Digimon Survive Month 1 Edition Xbox One [Digital Code]",
-    "precio": 59.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-242-258-V01.jpg",
+    "titulo": "Tales of Arise Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 53.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-239-003-01.jpg",
@@ -2150,14 +2130,19 @@
     "precio": 53.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-843-655-01.jpg",
+    "titulo": "Steelrising - PC [Online Game Code]",
+    "precio": 49.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-511-01.jpg",
+    "titulo": "Battlefield 2042: 13000 BFC Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 99.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-242-398-01.jpg",
     "titulo": "Digimon Survive - Standard Edition Xbox One [Digital Code]",
     "precio": 54.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-844-198-01.jpg",
-    "titulo": "Evil West - PC [Online Game Code]",
-    "precio": 49.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-149-059-01.jpg",
@@ -2175,6 +2160,11 @@
     "precio": 62.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-701-061-01.jpg",
+    "titulo": "Call of Duty: Vanguard - Cross-Gen Bundle Xbox Series X | S / Xbox One [Digital Code]",
+    "precio": 69.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-233-208-01.jpg",
     "titulo": "Resident Evil: Village Winters’ Expansion Xbox Series X|S / Xbox One [Digital Code]",
     "precio": 19.01
@@ -2185,24 +2175,24 @@
     "precio": 54.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-193-083-01.jpg",
-    "titulo": "Destroy All Humans! 2 Reprobed: Jumbo Pack Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 79.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-844-200-01.jpg",
     "titulo": "A Plague Tale: Requiem Xbox Series X|S [Digital Code]",
     "precio": 59.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-811-211-V01.jpg",
-    "titulo": "Saints Row Gold Edition Xbox Series X|S, Xbox One [Digital Code]",
-    "precio": 81.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-193-083-01.jpg",
+    "titulo": "Destroy All Humans! 2 Reprobed: Jumbo Pack Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 79.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-402-051-01.jpg",
     "titulo": "Bratz™: Flaunt your fashion Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 29.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-811-211-V01.jpg",
+    "titulo": "Saints Row Gold Edition Xbox Series X|S, Xbox One [Digital Code]",
+    "precio": 81.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-298-V02.jpg",
@@ -2213,11 +2203,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-811-212-V01.jpg",
     "titulo": "Saints Row Platinum Edition Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 91
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-320-01.jpg",
-    "titulo": "Gotham Knights: Deluxe - PC [Online Game Code]",
-    "precio": 79.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-233-205-01.jpg",
@@ -2235,6 +2220,11 @@
     "precio": 79.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-320-01.jpg",
+    "titulo": "Gotham Knights: Deluxe - PC [Online Game Code]",
+    "precio": 79.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-402-050-01.jpg",
     "titulo": "Star Trek Prodigy: Supernova Xbox Series X|S, Xbox One [Digital Code]",
     "precio": 49.01
@@ -2243,11 +2233,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-959-087-V07.jpg",
     "titulo": "Atelier Mysterious Trilogy Deluxe Pack [Online Game Code]",
     "precio": 89.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-323-01.jpg",
-    "titulo": "Gotham Knights Xbox Series X|S [Digital Code]",
-    "precio": 69.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-239-005-V01.jpg",
@@ -2260,14 +2245,14 @@
     "precio": 19.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-777-323-01.jpg",
+    "titulo": "Gotham Knights Xbox Series X|S [Digital Code]",
+    "precio": 69.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-777-324-01.jpg",
     "titulo": "Gotham Knights: Deluxe Xbox Series X|S [Digital Code]",
     "precio": 89.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-354-V01.jpg",
-    "titulo": "EA SPORTS UFC 4 Standard Edition Xbox One [Digital Code]",
-    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-811-194-V02.jpg",
@@ -2278,6 +2263,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/32-402-025-V01.jpg",
     "titulo": "Trollhunters: Defenders of Arcadia Xbox One [Digital Code]",
     "precio": 39.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/32-101-354-V01.jpg",
+    "titulo": "EA SPORTS UFC 4 Standard Edition Xbox One [Digital Code]",
+    "precio": 59.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/32-402-022-V01.jpg",
@@ -2305,14 +2295,14 @@
     "precio": 179.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/BREWS23092205ZVRW33.jpg",
-    "titulo": "Bestier 42\" Open Cabinet Gaming Desk, L-Shaped Reversible Desk with Monitor Stand, RGB Light Strip, Side Pocket, and Headset Hook for Gaming and Working, Carbon Fiber Black&Red",
-    "precio": 129.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/BREWS2309060MIL9S80.jpg",
     "titulo": "Bestier 61.3 Inch Gaming Desk, 4 Tier Shelf Computer Desk with LED Lighting, Side Storage Bag and Accessories Hanger for Gaming and Working, Black",
     "precio": 159.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/BREWS23092205ZVRW33.jpg",
+    "titulo": "Bestier 42\" Open Cabinet Gaming Desk, L-Shaped Reversible Desk with Monitor Stand, RGB Light Strip, Side Pocket, and Headset Hook for Gaming and Working, Carbon Fiber Black&Red",
+    "precio": 129.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/BREWS2309080G5DEB22.jpg",
@@ -2325,9 +2315,9 @@
     "precio": 0
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-082-08.jpg",
-    "titulo": "AORUS FO32U2 Pro 32\" QD OLED 4K UHD 3840 x 2160 240Hz 0.03ms GTG  AMD FreeSync Premium Pro, USB-C, KVM, HDMI 2.1, Display Port 2.1, Height Adjustable Gaming Monitor",
-    "precio": 1299.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-007-08.jpg",
+    "titulo": "ASRock 27\" 180 Hz IPS QHD Gaming Monitor FreeSync (AMD Adaptive Sync) 2560 x 1440 (2K) PG27QFT2A",
+    "precio": 239.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-027-274-14.jpg",
@@ -2335,9 +2325,9 @@
     "precio": 1599.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-007-08.jpg",
-    "titulo": "ASRock 27\" 180 Hz IPS QHD Gaming Monitor FreeSync (AMD Adaptive Sync) 2560 x 1440 (2K) PG27QFT2A",
-    "precio": 239.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-082-08.jpg",
+    "titulo": "AORUS FO32U2 Pro 32\" QD OLED 4K UHD 3840 x 2160 240Hz 0.03ms GTG  AMD FreeSync Premium Pro, USB-C, KVM, HDMI 2.1, Display Port 2.1, Height Adjustable Gaming Monitor",
+    "precio": 1299.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-350-11.jpg",
@@ -2375,14 +2365,14 @@
     "precio": 349.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-308-04.jpg",
-    "titulo": "ASUS ROG Swift 39\" Ultrawide 800R Curved OLED Gaming Monitor (PG39WCDM) - 21:9 (3440x1440), 240Hz, 0.03ms, G-SYNC Compatible, Custom Heatsink, Smart KVM, 90W USB-C, DisplayWidget",
-    "precio": 1499.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-089-V06.jpg",
     "titulo": "MSI Optix MAG301CR2 30\" WFHD 2560 x 1080 1ms (MPRT) 200Hz HDMI, DisplayPort, USB FreeSync (AMD Adaptive Sync) Curved Gaming Monitor",
     "precio": 219.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-308-04.jpg",
+    "titulo": "ASUS ROG Swift 39\" Ultrawide 800R Curved OLED Gaming Monitor (PG39WCDM) - 21:9 (3440x1440), 240Hz, 0.03ms, G-SYNC Compatible, Custom Heatsink, Smart KVM, 90W USB-C, DisplayWidget",
+    "precio": 999.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-281-267-04.png",
@@ -2405,9 +2395,9 @@
     "precio": 229.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-484-01.png",
-    "titulo": "Acer Nitro Curved ED270R S3 27inch 1920x1080 180Hz Refresh rate 1ms response time AMD FreeSync Premium HDR Gaming Monitor, HDMIx2, DisplayPort",
-    "precio": 129.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-264-17.jpg",
+    "titulo": "ASUS 27\" 1080P Eye Care Monitor (VA27EHF) - IPS, Full HD, Frameless, 100Hz, 1ms, Adaptive-Sync, for Working and Gaming, Low Blue Light, Flicker Free, HDMI, VESA Mountable, Tilt",
+    "precio": 99
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-326-06.jpg",
@@ -2415,9 +2405,9 @@
     "precio": 189.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-264-17.jpg",
-    "titulo": "ASUS 27\" 1080P Eye Care Monitor (VA27EHF) - IPS, Full HD, Frameless, 100Hz, 1ms, Adaptive-Sync, for Working and Gaming, Low Blue Light, Flicker Free, HDMI, VESA Mountable, Tilt",
-    "precio": 99
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-484-01.png",
+    "titulo": "Acer Nitro Curved ED270R S3 27inch 1920x1080 180Hz Refresh rate 1ms response time AMD FreeSync Premium HDR Gaming Monitor, HDMIx2, DisplayPort",
+    "precio": 129.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/0JC-000P-00P52-01.jpg",
@@ -2505,19 +2495,9 @@
     "precio": 949.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-025-955-V11.jpg",
-    "titulo": "LG Ultragear 27GL850-B 27\"  Gaming Monitor  2K QHD 2560 x 1440 1ms GTG 144Hz 2 x HDMI DisplayPort USB 3.0 Hub AMD FreeSync NVIDIA G-Sync Compatible HDR 10 Nano IPS Tilt, Height, Pivot Adjust",
-    "precio": 249.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-012-067-28.jpg",
     "titulo": "GIGABYTE - GS34WQC - 34\" VA Curved Gaming Monitor - WQHD 3440x1440 - 120Hz/OC 135Hz - 1ms MPRT - AMD FreeSync Premium - HDMI, DP - Black",
     "precio": 249.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-012-081-08.jpg",
-    "titulo": "GIGABYTE - AORUS FO32U2 - 32\" QD OLED Gaming Monitor - UHD 3840x2160 - 240Hz - 0.03ms GTG - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
-    "precio": 1099.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-012-081-08.jpg",
@@ -2540,11 +2520,6 @@
     "precio": 229.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-003-09.jpg",
-    "titulo": "ASRock Phantom PG34WQ15R3A 34\" WQHD 3440 x 1440 (2K) 165 Hz (144Hz and higher) Wi-Fi Antenna FreeSync Premium (AMD Adaptive Sync) Built-in Speakers Curved Gaming Monitor",
-    "precio": 361.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-310-01.jpg",
     "titulo": "MSI 32\" 170 Hz VA WQHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 2560 x 1440 (2K) 85% DCI-P3 / 110% sRGB G321CQP E2",
     "precio": 259.01
@@ -2555,14 +2530,9 @@
     "precio": 169.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/26-554-062-V04.jpg",
-    "titulo": "MSI Force GC30V2 White Wireless Gaming Controller, Dual Vibration Motors, Dual Connection Modes, Interchangeable D-Pads, Compatible with PC & Android",
-    "precio": 29.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/26-816-206-13.jpg",
-    "titulo": "Corsair DARKSTAR RGB Wireless Gaming Mouse for MMO, MOBA - 26,000 DPI - 15 Programmable Buttons - Up to 80hrs Battery - iCUE Compatible - Black",
-    "precio": 149.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/26-816-161-V01.jpg",
+    "titulo": "Corsair DARK CORE RGB PRO CH-9315411-NA Black 8 Buttons 1 x Wheel USB 2.0 Type-A SLIPSTREAM/Bluetooth Wireless, Wired Optical FPS/MOBA Gaming Mouse, Backlit RGB LED",
+    "precio": 89.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/B4RGS220324SnpOk.jpg",
@@ -2575,14 +2545,14 @@
     "precio": 32.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/74-170-308-V01.jpg",
-    "titulo": "Tom Clancy's The Division 2 - Xbox One",
-    "precio": 14.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/74-122-073-V21.jpg",
     "titulo": "Rage 2 - Xbox One",
     "precio": 59.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/74-170-308-V01.jpg",
+    "titulo": "Tom Clancy's The Division 2 - Xbox One",
+    "precio": 14.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-360-352-01.png",
@@ -2603,11 +2573,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/24-012-047-01.jpg",
     "titulo": "GIGABYTE - M32QC - 32\" VA Curved Gaming Monitor - QHD 2560x1440 - 165Hz/OC 170Hz - 1ms MPRT - AMD FreeSync Premium Pro - Type C KVM - HDMI, DP, Type C - Height Adjustable - Black",
     "precio": 269.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-271-01.jpg",
-    "titulo": "ASUS TUF Gaming 27\" 1440P HDR Monitor (VG27AQ3A) - QHD (2560 x 1440), 180Hz, 1ms, Fast IPS, 130% sRGB, Extreme Low Motion Blur Sync, Speakers, Freesync Premium, G-SYNC Compatible, HDMI, DisplayPort",
-    "precio": 247.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-012-065-19.jpg",
@@ -2660,19 +2625,24 @@
     "precio": 529.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/26-554-067-S06.jpg",
-    "titulo": "MSI Force GC30V2 Wireless Gaming Controller, Dual Vibration Motors, Dual Connection Modes, Interchangeable D-Pads, Compatible with PC & Android",
-    "precio": 29.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/26-197-390-S01.jpg",
     "titulo": "Logitech G203 Wired Gaming Mouse, 8,000 DPI, Rainbow Optical Effect LIGHTSYNC RGB, 6 Programmable Buttons, On-Board Memory, Screen Mapping, PC/Mac Computer and Laptop Compatible - Black",
     "precio": 31.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/26-554-067-S06.jpg",
+    "titulo": "MSI Force GC30V2 Wireless Gaming Controller, Dual Vibration Motors, Dual Connection Modes, Interchangeable D-Pads, Compatible with PC & Android",
+    "precio": 29.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/BDUCD2207230Q9PGQ73.jpg",
     "titulo": "HyperX Alloy Origins 60 - Mechanical Gaming Keyboard - Ultra Compact 60% Form Factor - Linear Red Switch - Double Shot PBT Keycaps - RGB LED Backlit - NGENUITY Software Compatible - Pink",
     "precio": 49.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/26-918-054-V01.jpg",
+    "titulo": "HTC Vive Focus 3 Enterprise Virtual Reality Headset",
+    "precio": 1300
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-289-01.jpg",
@@ -2698,6 +2668,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/26-197-308-Z01.jpg",
     "titulo": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse, Hero 12K Sensor, 12,000 DPI, Lightweight, 6 Programmable Buttons, 250h Battery Life, On-Board Memory, PC/Mac - Black",
     "precio": 49.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/26-988-113-06.jpg",
+    "titulo": "SCUF Instinct Pro Custom Wireless Performance Controller for Xbox Series X|S, Xbox One, PC, and Mobile - Steel Gray",
+    "precio": 229.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/26-816-160-V01.jpg",
@@ -2758,11 +2733,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/34-360-318-12.jpg",
     "titulo": "Acer Nitro V ANV15-51-59MT 15.6'' 144 Hz IPS Intel Core i5-13420H GeForce RTX 4050 Laptop GPU 8GB Memory 512 GB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
     "precio": 769.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-725-214-05.jpg",
-    "titulo": "Aorus 15 BSF-73US754SH 15.6'' 165 Hz Intel Core i7-13700H GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB Gen4 SSD Windows 11 Home 64-bit Gaming Laptop",
-    "precio": 1249.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-233-581-01.jpg",
@@ -2838,11 +2808,6 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/24-281-081-V01.jpg",
     "titulo": "ASUS TUF Gaming VG279QL1A 27\" HDR Gaming Monitor, 1080P Full HD, 165Hz (Supports 144Hz), IPS, 1ms, FreeSync Premium, DisplayHDR 400, Extreme Low Motion Blur, Eye Care, 2x HDMI, DisplayPort",
     "precio": 199.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/26-554-042-02.jpg",
-    "titulo": "MSI Clutch GM08 Gaming Mouse, 4200 DPI, Optical Sensor, 3 Adjustable Weights, Red LED Lighting, Symmetrical Design",
-    "precio": 19.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/23-816-154-S16.jpg",
@@ -2975,9 +2940,9 @@
     "precio": 159.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-616-15.jpg",
-    "titulo": "MSI Bravo 15 B7EDP-024US 15.6'' 144 Hz IPS AMD Ryzen 7 7840HS AMD Radeon RX 6550M 16GB Memory 512 GB NVMe SSD Windows 11 Home 64-bit Gaming Laptop",
-    "precio": 649.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-587-15.jpg",
+    "titulo": "MSI Bravo 15 C7VFKP 15.6'' 144 Hz IPS AMD Ryzen 9 7940HS GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB NVMe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 999.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/23-126-615-V01.jpg",
@@ -2987,7 +2952,7 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-390-15.jpg",
     "titulo": "ASUS TUF Gaming A17 (2023) Gaming Laptop, 17.3\" FHD 144Hz Display, GeForce RTX 4050, AMD Ryzen 7 7735HS, 16GB DDR5, 1TB PCIe 4.0 SSD, Wi-Fi 6, Windows 11, FA707NU-DS74",
-    "precio": 1198.01
+    "precio": 1205.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/A86ED2104094EOXB.jpg",
@@ -3042,7 +3007,7 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-492-10.jpg",
     "titulo": "ASUS ROG Strix G16 Gaming Laptop, 16\" 16:10 QHD 240Hz, GeForce RTX 4070, Intel Core i9-14900HX, 32GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11 Pro, G614JIR-XS96 (2024)",
-    "precio": 2299.01
+    "precio": 2099
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/23-239-056-S01.jpg",
@@ -3110,6 +3075,11 @@
     "precio": 0
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-233-573-01.jpg",
+    "titulo": "Aorus 16X Series 16X ASG-53USC64SH 16'' 165 Hz IPS Intel Core i7-14650HX GeForce RTX 4070 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 1599.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-359-01.jpg",
     "titulo": "ASUS ROG Zephyrus Duo 16 (2023) Gaming Laptop, 16” Mini LED 240Hz/3ms, QHD 16:10 Display, 100% DCI-P3, NVIDIA GeForce RTX 4080, AMD Ryzen 9 7945HX, 32GB DDR5, 1TB SSD, Windows 11 Pro, GX650PZ-XS96",
     "precio": 2999
@@ -3117,7 +3087,7 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-388-02.jpg",
     "titulo": "ASUS ROG Strix G16 (2023) Gaming Laptop, 16\" Nebula Display 16:10 QHD+ 240Hz, GeForce RTX 4050, Intel Core i9-13980HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G614JU-ES94",
-    "precio": 1538.01
+    "precio": 1540.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-479-12.jpg",
@@ -3175,11 +3145,6 @@
     "precio": 1149.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-233-580-01.jpg",
-    "titulo": "GIGABYTE G6X Series G6X 9KG-43US854SH 16'' 165 Hz IPS Intel Core i7-13650HX GeForce RTX 4060 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
-    "precio": 1149.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-346-01.jpg",
     "titulo": "MSI Delta 15 A5EFK-097 15.6\" 240 Hz IPS AMD Ryzen 7 5000 Series 5800H (3.20GHz) AMD Radeon RX 6700M 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
     "precio": 999.01
@@ -3192,7 +3157,7 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-491-14.jpg",
     "titulo": "ASUS ROG Strix G16 (2024) Gaming Laptop, 16\" Nebula Display 16:10 QHD 240Hz, GeForce RTX 4060, Intel Core i9-14900HX, 16GB DDR5-5600, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G614JVR-ES94",
-    "precio": 1674.01
+    "precio": 1599
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-554-17.jpg",
@@ -3237,7 +3202,7 @@
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-481-21.jpg",
     "titulo": "ASUS TUF Gaming A15 (2023) Gaming Laptop, 15.6\" FHD 144Hz, 100% sRGB Display, GeForce RTX 4070, AMD Ryzen 9 7940HS, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6, Windows 11, FA507XI-EH94",
-    "precio": 1548.01
+    "precio": 1670.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-026-052-S01.jpg",
@@ -3268,6 +3233,11 @@
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-420-01.jpg",
     "titulo": "MSI Stealth 15 A13VF-038US 15.6\" 144 Hz IPS Intel Core i5 13th Gen 13420H (2.10GHz) GeForce RTX 4060 Laptop GPU 16GB Memory 512 GB NVMe SSD Windows 11 Home 64-bit Gaming Laptop",
     "precio": 0
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-484-01.png",
+    "titulo": "MSI GE Series Raider GE76 12UE-456 17.3'' 144 Hz IPS Intel Core i7-12700H GeForce RTX 3060 Laptop GPU 16GB Memory 1 TB NVMe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 1389.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-224-01.jpg",
@@ -3320,9 +3290,9 @@
     "precio": 209.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-027-109-V11.jpg",
-    "titulo": "SAMSUNG 32\" 165 Hz (Max) VA FHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 1920 x 1080 72% NTSC HDMI, DisplayPort, Audio Odyssey G32A LS32AG320NNXZA",
-    "precio": 279.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-359-10.jpg",
+    "titulo": "MSI MPG 271QRX QD-OLED 27\" 16:9, QD-OLED Gaming Monitor, 360Hz 0.03ms, 2560 x 1440 (WQHD), Height Adjustable Arm, RGB, AI ENGINE",
+    "precio": 799.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-394-05.png",
@@ -3335,11 +3305,6 @@
     "precio": 1199.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-359-10.jpg",
-    "titulo": "MSI MPG 271QRX QD-OLED 27\" 16:9, QD-OLED Gaming Monitor, 360Hz 0.03ms, 2560 x 1440 (WQHD), Height Adjustable Arm, RGB, AI ENGINE",
-    "precio": 799.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-011-458-06.jpg",
     "titulo": "Acer Nitro 32” 1000R Curved 2560x1440P 2K 240Hz Refresh rate Up to 0.5ms response time VESA HDR400 AMD FreeSync Premium Adjustable Stand Gaming Monitor, HDMIx2, DisplayPort, Speaker (XZ323QU X3BMIIPH)",
     "precio": 299.01
@@ -3350,19 +3315,14 @@
     "precio": 271.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-236-987-01.jpg",
-    "titulo": "ASUS TUF 27\" 165Hz 1440P HDR Gaming Monitor- QHD (2560 x 1440), (Supports 144Hz), 1ms, Extreme Low Motion Blur, Speaker, G-SYNC Compatible, VESA Mountable, DisplayPort, HDMI VG27AQ",
-    "precio": 279.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-360-361-01.jpg",
     "titulo": "Acer Predator Triton Neo 16 PTN16-51-932N 16\" 165 Hz IPS Intel Core Ultra 9 185H GeForce RTX 4070 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
     "precio": 1549.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-504-01.png",
-    "titulo": "Acer Nitro EDA270 X2biip 27\" 1500R Curved Full HD (1920 x 1080) Monitor with AMD FreeSync Premium Technology, 240Hz Refresh Rate, 1ms VRB, HDR 10 (Display Port 1.4 & 2 x HDMI 2.0 Ports)",
-    "precio": 159.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-236-987-01.jpg",
+    "titulo": "ASUS TUF 27\" 165Hz 1440P HDR Gaming Monitor- QHD (2560 x 1440), (Supports 144Hz), 1ms, Extreme Low Motion Blur, Speaker, G-SYNC Compatible, VESA Mountable, DisplayPort, HDMI VG27AQ",
+    "precio": 279.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-625-21.jpg",
@@ -3370,14 +3330,19 @@
     "precio": 5399.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-504-01.png",
+    "titulo": "Acer Nitro EDA270 X2biip 27\" 1500R Curved Full HD (1920 x 1080) Monitor with AMD FreeSync Premium Technology, 240Hz Refresh Rate, 1ms VRB, HDR 10 (Display Port 1.4 & 2 x HDMI 2.0 Ports)",
+    "precio": 159.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-331-05.jpg",
+    "titulo": "MSI 32\" Gaming Monitor, 2560 x 1440 (QHD) Curved Gaming Monitor, 1 ms, 170Hz, FreeSync Premium, 1500R, HDMI, DisplayPort, Tilt, Swivel, Pivot and Height Adjustable,G32CQ5P",
+    "precio": 219.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-026-195-12.jpg",
     "titulo": "LG 27\" UltraGear 27GP850-B QHD 2560 x 1440 Nano IPS 1ms 165Hz(OC 180Hz) HDR HDMI DisplayPort FreeSync Premium G-Sync Compatible Tilt Pivot Height Adjust Gaming Monitor",
     "precio": 299.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-233-582-02.jpg",
-    "titulo": "GIGABYTE G6 Series G6 MF-H2US854KH 16\" 165 Hz IPS Intel Core i7-13620H GeForce RTX 4050 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
-    "precio": 969.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-386-40.jpg",
@@ -3385,9 +3350,9 @@
     "precio": 1737.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-331-05.jpg",
-    "titulo": "MSI 32\" Gaming Monitor, 2560 x 1440 (QHD) Curved Gaming Monitor, 1 ms, 170Hz, FreeSync Premium, 1500R, HDMI, DisplayPort, Tilt, Swivel, Pivot and Height Adjustable,G32CQ5P",
-    "precio": 219.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-233-582-02.jpg",
+    "titulo": "GIGABYTE G6 Series G6 MF-H2US854KH 16\" 165 Hz IPS Intel Core i7-13620H GeForce RTX 4050 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 969.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-281-246-21.jpg",
@@ -3400,14 +3365,9 @@
     "precio": 149.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-629-07.png",
-    "titulo": "MSI Stealth GS77 12UE-231 17.3'' 144 Hz IPS Intel Core i9-12900H GeForce RTX 3060 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home Gaming Laptop",
-    "precio": 0
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-006-08.jpg",
-    "titulo": "ASRock Phantom PG27F15RS1A 27\" FHD 1920 x 1080 240 Hz (144Hz and higher) Adaptive Sync Built-in Speakers Curved Gaming Monitor",
-    "precio": 219.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-352-01.png",
+    "titulo": "MSI MAG274QRF QD E2 (27\" QHD, Rapid IPS with Quantum Dot Technology, 180Hz, 1ms GtG, HDR400, Height Adjustable)",
+    "precio": 279.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-628-26.jpg",
@@ -3415,14 +3375,14 @@
     "precio": 1999.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-352-01.png",
-    "titulo": "MSI MAG274QRF QD E2 (27\" QHD, Rapid IPS with Quantum Dot Technology, 180Hz, 1ms GtG, HDR400, Height Adjustable)",
-    "precio": 279.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-160-517-03.png",
     "titulo": "AOC 24B2H2 24” Frameless IPS Monitor, FHD 1920x1080, 100Hz, 106% sRGB, for Home and Office,  2X HDMI , Low Blue Mode, VESA Compatible,Black",
     "precio": 74.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-028-006-08.jpg",
+    "titulo": "ASRock Phantom PG27F15RS1A 27\" FHD 1920 x 1080 240 Hz (144Hz and higher) Adaptive Sync Built-in Speakers Curved Gaming Monitor",
+    "precio": 219.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-384-01.jpg",
@@ -3430,14 +3390,14 @@
     "precio": 439.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-725-228-02.jpg",
-    "titulo": "GIGABYTE AORUS 17X - 17.3\" 16:9 Thin Bezel QHD 2560x1440 240Hz - NVIDIA GeForce RTX 4080 Laptop GPU 12GB GDDR6 - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Pro - Gaming Laptop",
-    "precio": 2399.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-011-465-29.png",
     "titulo": "Acer Nitro XV275U Vymipruzx 27inch IPS WQHD 2560 x1440 170Hz Refresh Rate 1ms Response TimeAMD FreeSync™ Premium Technology Gaming Monitor, Built-In KVM Switch, USB Type-C Port x1, Video Port x1",
     "precio": 199.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-725-228-02.jpg",
+    "titulo": "GIGABYTE AORUS 17X - 17.3\" 16:9 Thin Bezel QHD 2560x1440 240Hz - NVIDIA GeForce RTX 4080 Laptop GPU 12GB GDDR6 - Intel Core i9-13980HX - 16GB DDR5 RAM - 1TB SSD - Win11 Pro - Gaming Laptop",
+    "precio": 2399.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-027-137-01.jpg",
@@ -3450,33 +3410,13 @@
     "precio": 249.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-096-01.jpg",
-    "titulo": "ASUS TUF Gaming VG24VQE 24\" (23.6\" Viewable) Full HD 1920 x 1080 1ms (MPRT) 165Hz HDMI, DisplayPort FreeSync Premium Curved Gaming Monitor",
-    "precio": 169.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-027-314-01.jpg",
-    "titulo": "SAMSUNG 32\" 180 Hz Fast IPS QHD Gaming Monitor FreeSync (AMD Adaptive Sync) 2560 x 1440 (2K) sRGB 99% Odyssey G50D LS32DG502ENXZA",
-    "precio": 299.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-026-321-11.jpg",
-    "titulo": "LG 32\" 165 Hz IPS QHD Gaming Monitor FreeSync Premium & G-Sync Compatible 2560 x 1440 (2K) sRGB 99% (CIE1931) UltraGear 32GP750-B",
-    "precio": 299.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-630-09.jpg",
     "titulo": "MSI Stealth 18 Mercedes-AMG A1VHG-038US 18'' 120 Hz Intel Core Ultra 9 185H GeForce RTX 4080 Laptop GPU 64GB Memory 2 TB PCIe SSD Windows 11 Pro Gaming Laptop",
     "precio": 3899.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-332-03.jpg",
-    "titulo": "MSI 24\" 180 Hz VA FHD Gaming Monitor 1920 x 1080 85% Adobe RGB / 81% DCI-P3 / 108% sRGB G2422C",
-    "precio": 119.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-500-29.png",
-    "titulo": "Acer Nitro Gaming XV273K V3BMIIPRX 27\" IPS 3840x2160 UHD Up to 160Hz 0.5ms Response Time DCI-P3 95% Wide Color Gamut AMD FreeSync Premium HDR400 Monitor, HDMIx2, DisplayPort, Speakers",
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-026-321-11.jpg",
+    "titulo": "LG 32\" 165 Hz IPS QHD Gaming Monitor FreeSync Premium & G-Sync Compatible 2560 x 1440 (2K) sRGB 99% (CIE1931) UltraGear 32GP750-B",
     "precio": 299.01
   },
   {
@@ -3485,14 +3425,29 @@
     "precio": 199.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-266-10.jpg",
-    "titulo": "ASUS TUF Gaming 27\" 1080P HDR Monitor (VG279QM1A) - Full HD (1920 x 1080), 280Hz, 1ms, Fast IPS, Extreme Low Motion Blur Sync, Freesync Premium, G-SYNC Compatible, Speakers, Variable Overdrive",
-    "precio": 251.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-332-03.jpg",
+    "titulo": "MSI 24\" 180 Hz VA FHD Gaming Monitor 1920 x 1080 85% Adobe RGB / 81% DCI-P3 / 108% sRGB G2422C",
+    "precio": 119.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-236-496-03.png",
     "titulo": "ASUS TUF Gaming F16 (2024) Gaming Laptop, 16\" FHD+ 165Hz, IPS-level 100% sRGB 16:10 Display, Intel Core i7-13650HX, NVIDIA GeForce RTX 4060, 16GB DDR5, 512GB PCIe 4.0 SSD, Wi-Fi 6, Windows 11",
     "precio": 1099.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-266-10.jpg",
+    "titulo": "ASUS TUF Gaming 27\" 1080P HDR Monitor (VG279QM1A) - Full HD (1920 x 1080), 280Hz, 1ms, Fast IPS, Extreme Low Motion Blur Sync, Freesync Premium, G-SYNC Compatible, Speakers, Variable Overdrive",
+    "precio": 251.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-027-314-01.jpg",
+    "titulo": "SAMSUNG 32\" 180 Hz Fast IPS QHD Gaming Monitor FreeSync (AMD Adaptive Sync) 2560 x 1440 (2K) sRGB 99% Odyssey G50D LS32DG502ENXZA",
+    "precio": 299.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-281-096-01.jpg",
+    "titulo": "ASUS TUF Gaming VG24VQE 24\" (23.6\" Viewable) Full HD 1920 x 1080 1ms (MPRT) 165Hz HDMI, DisplayPort FreeSync Premium Curved Gaming Monitor",
+    "precio": 169.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-281-084-S06.jpg",
@@ -3505,9 +3460,29 @@
     "precio": 189.01
   },
   {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-236-448-12.jpg",
+    "titulo": "ASUS TUF Gaming F15 (2022) Gaming Laptop, 15.6\" FHD 144Hz Display, GeForce RTX 3050, Intel Core i5-12500H, 16GB DDR4, 512GB PCIe SSD, Wi-Fi 6, Windows 11, FX507ZC-ES53",
+    "precio": 799.01
+  },
+  {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-281-279-03.jpg",
     "titulo": "ASUS ROG Strix 380Hz 25\" (24.5\" Viewable) 1080P HDR eSports Gaming Monitor (XG259QN) - Full HD, 0.3ms, Fast IPS, FreeSync Premium, ELMB Sync, DisplayPort, HDMI, USB Hub, DisplayHDR 400",
     "precio": 299.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-309-10.png",
+    "titulo": "MSI 27\" 170 Hz Rapid VA with Quantum Dot WQHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 2560 x 1440 (2K) 94% Adobe RGB / 96% DCI-P3 / 127% sRGB MAG275CQRF QD",
+    "precio": 259.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-011-500-29.png",
+    "titulo": "Acer Nitro Gaming XV273K V3BMIIPRX 27\" IPS 3840x2160 UHD Up to 160Hz 0.5ms Response Time DCI-P3 95% Wide Color Gamut AMD FreeSync Premium HDR400 Monitor, HDMIx2, DisplayPort, Speakers",
+    "precio": 299.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-368-01.png",
+    "titulo": "MSI 27\" 180 Hz Rapid IPS QHD Gaming Monitor 2560 x 1440 (2K) 1ms (GTG) MAG274QRFW",
+    "precio": 249.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-014-955-03.jpg",
@@ -3515,19 +3490,14 @@
     "precio": 999.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-236-448-12.jpg",
-    "titulo": "ASUS TUF Gaming F15 (2022) Gaming Laptop, 15.6\" FHD 144Hz Display, GeForce RTX 3050, Intel Core i5-12500H, 16GB DDR4, 512GB PCIe SSD, Wi-Fi 6, Windows 11, FX507ZC-ES53",
-    "precio": 799.01
-  },
-  {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-156-540-04.jpg",
     "titulo": "MSI Stealth 16 MercedesAMG A13VG-236 16.0\" OLED Intel Core i9-13900H GeForce RTX 4070 Laptop GPU 64GB Memory 2 TB NVMe SSD Windows 11 Pro 64-bit Gaming Laptop",
     "precio": 2972.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-368-01.png",
-    "titulo": "MSI 27\" 180 Hz Rapid IPS QHD Gaming Monitor 2560 x 1440 (2K) 1ms (GTG) MAG274QRFW",
-    "precio": 249.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-651-21.jpg",
+    "titulo": "MSI Sword 16 HX B13VGKG-665US 16.0\" 144 Hz IPS Intel Core i7-13700HX GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 1299.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-011-506-01.jpg",
@@ -3545,8 +3515,13 @@
     "precio": 109.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-342-07.png",
-    "titulo": "MSI 27\" 180 Hz VA FHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 1920 x 1080 G27C3F",
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-360-362-02.jpg",
+    "titulo": "Acer Predator Helios Neo 18 PHN18-71-77JT 18\" 165 Hz IPS Intel Core i7-14700HX GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 1599.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-379-01.jpg",
+    "titulo": "MSI 27\" 180 Hz Rapid VA FHD Gaming Monitor 1920 x 1080 Adobe RGB / DCI-P3 / sRGB: 78% / 73% / 93% MAG27C6F",
     "precio": 139.01
   },
   {
@@ -3555,14 +3530,19 @@
     "precio": 249.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-379-01.jpg",
-    "titulo": "MSI 27\" 180 Hz Rapid VA FHD Gaming Monitor 1920 x 1080 Adobe RGB / DCI-P3 / sRGB: 78% / 73% / 93% MAG27C6F",
-    "precio": 139.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-160-501-04.jpg",
+    "titulo": "AOC Agon PRO AG324UX 32'' Gaming Monitor, 4K UHD Resolution, 144Hz 1ms, USB-C Docking, Built-in KVM, DisplayHDR 400, Console Gaming Ready, PS5/Switch/Xbox; Light FX, DTS Speakers; Height Adjustable",
+    "precio": 449.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-389-01.jpg",
     "titulo": "MSI 27\" 160 Hz Rapid IPS UHD Gaming Monitor 3840 x 2160 (4K) MAG 274URFW",
     "precio": 379.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-627-01.jpg",
+    "titulo": "MSI Raider GE78 HX 14VIG-871US 17\" 240 Hz IPS Intel Core i9-14900HX GeForce RTX 4080 Laptop GPU 64GB Memory 2 TB PCIe SSD Windows 11 Home Gaming Laptop",
+    "precio": 3099.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/34-840-521-17.jpg",
@@ -3575,14 +3555,9 @@
     "precio": 422.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-156-627-01.jpg",
-    "titulo": "MSI Raider GE78 HX 14VIG-871US 17\" 240 Hz IPS Intel Core i9-14900HX GeForce RTX 4080 Laptop GPU 64GB Memory 2 TB PCIe SSD Windows 11 Home Gaming Laptop",
-    "precio": 3099.01
-  },
-  {
-    "img": "https://c1.neweggimages.com/productimage/nb300/24-236-978-V01.jpg",
-    "titulo": "ASUS VG248QG 24\" Full HD 1920 x 1080 0.5ms 165Hz(overclockable) Gaming Monitor, G-SYNC Compatible, Adaptive-Sync, ASUS Eye Care with Ultra Low-blue Light & Flicker-Free Technology",
-    "precio": 169.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-027-250-01.jpg",
+    "titulo": "SAMSUNG LS27C392EANXGO S3 27\" Full HD 1920 x 1080 75 Hz FreeSync (AMD Adaptive Sync) Curved monitor",
+    "precio": 179.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-475-370-01.jpg",
@@ -3590,13 +3565,38 @@
     "precio": 219.01
   },
   {
-    "img": "https://c1.neweggimages.com/productimage/nb300/34-360-362-02.jpg",
-    "titulo": "Acer Predator Helios Neo 18 PHN18-71-77JT 18\" 165 Hz IPS Intel Core i7-14700HX GeForce RTX 4070 Laptop GPU 16GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
-    "precio": 1599.01
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-367-07.jpg",
+    "titulo": "MSI 27\" 180 Hz Rapid VA QHD Gaming Monitor 2560 x 1440 (2K) 0.5ms (GTG) MAG27CQ6PF",
+    "precio": 189.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-326-112-10.jpg",
+    "titulo": "Razer Blade 16 RZ09-0510TEN3-R3U1 16.0\" 240 Hz OLED Intel Core i9-14900HX GeForce RTX 4080 Laptop GPU 32GB Memory 1 TB PCIe SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 3299.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-475-342-07.png",
+    "titulo": "MSI 27\" 180 Hz VA FHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 1920 x 1080 G27C3F",
+    "precio": 139.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-236-978-V01.jpg",
+    "titulo": "ASUS VG248QG 24\" Full HD 1920 x 1080 0.5ms 165Hz(overclockable) Gaming Monitor, G-SYNC Compatible, Adaptive-Sync, ASUS Eye Care with Ultra Low-blue Light & Flicker-Free Technology",
+    "precio": 169.01
   },
   {
     "img": "https://c1.neweggimages.com/productimage/nb300/24-281-212-03.jpg",
     "titulo": "ASUS 27\" 1080P TUF Gaming Curved HDR Monitor (VG27VQM) - Full HD, 240Hz, 1ms, Extreme Low Motion Blur, Adaptive-Sync, FreeSync Premium, Speakers, Eye Care, HDMI, DisplayPort, USB, Height Adjustable",
     "precio": 249.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/34-326-115-01.jpg",
+    "titulo": "Razer Blade 18 (2024) RZ09-05092EK4-R3U1 18'' 300 Hz Mini LED Intel Core i9-14900HX GeForce RTX 4090 Laptop GPU 32GB Memory 2 TB SSD Windows 11 Home 64-bit Gaming Laptop",
+    "precio": 4499.01
+  },
+  {
+    "img": "https://c1.neweggimages.com/productimage/nb300/24-014-864-S01.jpg",
+    "titulo": "BenQ 24.5\" 165 Hz IPS FHD Gaming Monitor FreeSync Premium (AMD Adaptive Sync) 1920 x 1080 99% sRGB HDMI, DisplayPort, Audio MOBIUZ EX2510S",
+    "precio": 143.01
   }
 ]
